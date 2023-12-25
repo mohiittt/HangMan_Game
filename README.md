@@ -33,9 +33,9 @@ Choose a letter: u
 Correct!
 sua__
 
-# Repeat until.....
-# If user wins
+Repeat until.....
+If user wins
 You won with 5 lives left.
 
-# Loses
+Loses
 You lost!
