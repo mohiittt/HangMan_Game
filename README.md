@@ -1,4 +1,4 @@
-# HangMan_Game
+# Hang Man Game with python
 This simple game is actually pretty complex. This hangman project combines lists, string manipulation, and slicing, along with other concepts.
 
  random.choice() picks a random item from a list. To select randomly from this list, we assign random.choice() to a variable.
